@@ -35,8 +35,3 @@ function NomeFunc() {
         YTable.setAttribute('hidden', true)
     }
 }
-
-
-
-
-
