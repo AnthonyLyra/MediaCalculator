@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5%;
+}
+
+th {
+    padding: 5px;
+}
+
+#paragraph {
+    color: red;
+}
+
+#searchDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+input {
+    padding: 8px;
+    border: 1px 1px 1px;
+}
+
+button {
+    margin-top: 10px;
+    width: 190px;
+    padding: 10px;
+}
