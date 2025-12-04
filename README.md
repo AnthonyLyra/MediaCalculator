@@ -5,7 +5,7 @@ Calcula a média dos usuário de acordo com suas notas na matéria. Design simpl
 
 ## Teste aqui!
 
- - [Acesse aqui](https://anthonylyra.github.io/MediaCalculator/)]
+ - [Acesse aqui](https://anthonylyra.github.io/MediaCalculator/)
  - Nomes de uso: Gabriel, Anthony e Yuri
 
 ## Referências
